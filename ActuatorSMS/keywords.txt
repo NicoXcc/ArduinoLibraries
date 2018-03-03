@@ -1,0 +1,12 @@
+ZerooneSupermodified        KEYWORD0
+ActuatorSMS                 KEYWORD1
+init                        KEYWORD2
+ticks2deg                   KEYWORD3
+deg2ticks                   KEYWORD4
+setDefaultPIDGain           KEYWORD5
+setSoftStiffnessPIDGain     KEYWORD6
+setHomeAndStart             KEYWORD7
+setStart                    KEYWORD8
+setStop                     KEYWORD9
+testActuatorSpan            KEYWORD10
+setActuatorSpan             KEYWORD11
